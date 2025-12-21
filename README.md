@@ -108,7 +108,7 @@ footer a {
     <div class="p-body">
       <div class="p-title">NY Classic – Negro</div>
       <div class="price">$300 MXN</div>
-      <a class="btn" href="https://wa.me/5214428655081text=Hola%20quiero%20comprar%20la%20gorra%20NY%20Classic%20Negro">Comprar</a>
+      <a class="btn" href="https://wa.me/524428655081text=Hola%20quiero%20comprar%20la%20gorra%20NY%20Classic%20Negro">Comprar</a>
     </div>
   </article>
   <article class="product">
