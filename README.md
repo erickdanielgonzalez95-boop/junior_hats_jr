@@ -108,7 +108,7 @@ footer a {
     <div class="p-body">
       <div class="p-title">NY Classic – Negro</div>
       <div class="price">$300 MXN</div>
-      <a class="btn" href="https://wa.me/524428655081text=Hola%20quiero%20comprar%20la%20gorra%20NY%20Classic%20Negro">Comprar</a>
+    <a class="btn" href="https://wa.me/524428655081?text=Hola%20quiero%20comprar%20la%20gorra%20NY%20Classic%20Negro">Comprar</a>
     </div>
   </article>
   <article class="product">
@@ -116,7 +116,7 @@ footer a {
     <div class="p-body">
       <div class="p-title">31 NY black– Negro</div>
       <div class="price">$2,000 MXN</div>
-      <a class="btn" href="https://wa.me/524428655081text=Hola%20quiero%20comprar%20la%20gorra%2031%20Hats%20Negro">Comprar</a>
+      <a class="btn" href="https://wa.me/524428655081?text=Hola%20quiero%20comprar%20la%20gorra%2031%20Hats%20Negro">Comprar</a>
     </div>
   </article>
  
@@ -127,7 +127,7 @@ footer a {
     <div class="p-body">
       <div class="p-title">Barbas Galaxy – Negro</div>
       <div class="price">$2,000 MXN</div>
-      <a class="btn" href="https://wa.me/524428655081text=Hola%20quiero%20comprar%20la%20gorra%20Barbas%20Hats%20Galaxy">Comprar</a>
+      <a class="btn" href="https://wa.me/524428655081?text=Hola%20quiero%20comprar%20la%20gorra%20Barbas%20Hats%20Galaxy">Comprar</a>
     </div>
   </article>
 
@@ -136,7 +136,7 @@ footer a {
     <div class="p-body">
       <div class="p-title">LA clauds 31 – Negro</div>
       <div class="price">$2,000 MXN</div>
-      <a class="btn" href="https://wa.me/524428655081text=Hola%20quiero%20comprar%20la%20gorra%20LA %20Clauds%2031">Comprar</a>
+      <a class="btn" href="https://wa.me/524428655081?text=Hola%20quiero%20comprar%20la%20gorra%20LA %20Clauds%2031">Comprar</a>
     </div>
   </article>
 
@@ -146,7 +146,7 @@ footer a {
     <div class="p-body">
       <div class="p-title">$ad boy DH – Negro</div>
       <div class="price">$1,500 MXN</div>
-      <a class="btn" href="https://wa.me/524428655081text=Hola%20quiero%20comprar%20la%20gorra%20$ad%20boy%20DH">Comprar</a>
+      <a class="btn" href="https://wa.me/524428655081?text=Hola%20quiero%20comprar%20la%20gorra%20$ad%20boy%20DH">Comprar</a>
     </div>
   </article>
 
@@ -155,7 +155,7 @@ footer a {
     <div class="p-body">
       <div class="p-title">Rocstar CT – Negro</div>
       <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://wa.me/524428655081text=Hola%20quiero%20comprar%20la%20gorra%20Rocstar%20CT%20Barbas">Comprar</a>
+      <a class="btn" href="https://wa.me/524428655081?text=Hola%20quiero%20comprar%20la%20gorra%20Rocstar%20CT%20Barbas">Comprar</a>
     </div>
   </article>
   
@@ -164,7 +164,7 @@ footer a {
     <div class="p-body">
       <div class="p-title">Chorme CT  – Negro</div>
       <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://wa.me/524428655081text=Hola%20quiero%20comprar%20la%20gorra%20Chorme%20CT%20Barbas">Comprar</a>
+      <a class="btn" href="https://wa.me/524428655081?text=Hola%20quiero%20comprar%20la%20gorra%20Chorme%20CT%20Barbas">Comprar</a>
     </div>
   </article>
 </section>
