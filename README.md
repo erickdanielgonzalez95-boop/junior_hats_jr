@@ -93,7 +93,7 @@ footer a {
 <body>
 
 <header>
-  <h1>🧢 Junior Haps JR</h1>
+  <h1>🧢 Junior Hats JR</h1>
   <p>La mejor calidad en gorras originales pero sin serlo  - Venta al detalle y mayoreo</p>
 </header>
 
