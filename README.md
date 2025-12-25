@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -93,7 +93,7 @@ footer a {
 <body>
 
 <header>
-  <h1>🧢 Junior Caps JR</h1>
+  <h1>🧢 Junior Haps JR</h1>
   <p>La mejor calidad en gorras originales pero sin serlo  - Venta al detalle y mayoreo</p>
 </header>
 
@@ -161,7 +161,7 @@ footer a {
       <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Chorme%20CT">Comprar</a>
     </div>
      <article class="product">
-    <img src="https://imgur.com/sUqzE3O">
+    <img src="https://imgur.com/sUqzE3O.jpg">
     <div class="p-body">
       <div class="p-title">Undisputed dandy x canelo – Negro</div>
       <div class="price">$1,600 MXN</div>
@@ -170,7 +170,7 @@ footer a {
     </article>
     
   <article class="product">
-    <img src="https://imgur.com/jQ8gWSN">
+    <img src="https://imgur.com/jQ8gWSN.jpg">
     <div class="p-body">
       <div class="p-title">Thirty one x Backpak Boyz – Rojo</div>
       <div class="price">$1,600 MXN</div>
@@ -179,7 +179,7 @@ footer a {
     </article>
     
   <article class="product">
-    <img src="https://imgur.com/qXcJ6Oi">
+    <img src="https://imgur.com/qXcJ6Oi.jpg">
     <div class="p-body">
       <div class="p-title">Tiffany DANDY x Canelo – Negro</div>
       <div class="price">$1,600 MXN</div>
@@ -188,7 +188,7 @@ footer a {
     </article>
 
   <article class="product">
-    <img src="https://imgur.com/qXcJ6Oi">
+    <img src="https://imgur.com/qXcJ6Oi.jpg">
     <div class="p-body">
       <div class="p-title">Innedit Total Black  – Negro</div>
       <div class="price">$1,600 MXN</div>
@@ -198,7 +198,7 @@ footer a {
 
     
   <article class="product">
-    <img src="https://imgur.com/I2AjtsJ">
+    <img src="https://imgur.com/I2AjtsJ.jpg">
     <div class="p-body">
       <div class="p-title">World Champion DANDY x Canelo  – Negro</div>
       <div class="price">$1,600 MXN</div>
@@ -206,7 +206,7 @@ footer a {
     </div>
     </article>
      <article class="product">
-    <img src="https://imgur.com/xZDJ2tc">
+    <img src="https://imgur.com/xZDJ2tc.jpg">
     <div class="p-body">
       <div class="p-title">TomboChino x DANDY  – Negro</div>
       <div class="price">$1,600 MXN</div>
@@ -214,7 +214,7 @@ footer a {
     </div>
        </article>
  <article class="product">
-    <img src="https://imgur.com/odvlgZw">
+    <img src="https://imgur.com/odvlgZw.jpg">
     <div class="p-body">
       <div class="p-title">LALALA Rude Aweikinks  – Negro</div>
       <div class="price">$1,600 MXN</div>
@@ -222,11 +222,11 @@ footer a {
     </div>
        </article>
 <article class="product">
-    <img src="https://imgur.com/xgLiEfR">
+    <img src="https://imgur.com/xgLiEfR.jpg">
     <div class="p-body">
       <div class="p-title">Summer DANDY – Negro</div>
       <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Summer%20DANDY>Comprar</a>
+      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Summer%20DANDY">Comprar</a>
     </div>
        </article>
 
