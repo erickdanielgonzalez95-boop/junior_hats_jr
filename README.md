@@ -117,14 +117,7 @@ footer a {
     </div>
   </article>
 
-  <article class="product">
-    <img src="https://imgur.com/dDoFbWn.jpg">
-    <div class="p-body">
-      <div class="p-title">Barbas Galaxy – Negro</div>
-      <div class="price">$2,000 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Barbas%20Galaxy">Comprar</a>
-    </div>
-  </article>
+  
 
   <article class="product">
     <img src="https://imgur.com/2WIk8sw.jpg">
@@ -144,97 +137,25 @@ footer a {
     </div>
   </article>
 
-  <article class="product">
-    <img src="https://imgur.com/LOTRkoR.jpg">
-    <div class="p-body">
-      <div class="p-title">Rocstar CT – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Rocstar%20CT">Comprar</a>
-    </div>
-  </article>
 
-  <article class="product">
-    <img src="https://imgur.com/hKV7oZN.jpg">
-    <div class="p-body">
-      <div class="p-title">Chorme CT – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Chorme%20CT">Comprar</a>
-    </div>
-     <article class="product">
-    <img src="https://imgur.com/sUqzE3O.jpg">
-    <div class="p-body">
-      <div class="p-title">Undisputed dandy x canelo – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Undisputed%20Dandy x canelo">Comprar</a>
-    </div>
-    </article>
-    
-  <article class="product">
-    <img src="https://imgur.com/jQ8gWSN.jpg">
-    <div class="p-body">
-      <div class="p-title">Thirty one x Backpak Boyz – Rojo</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20ULa mochila%20Thirty one x Backpak Boyz">Comprar</a>
-    </div>
-    </article>
-    
-  <article class="product">
-    <img src="https://imgur.com/qXcJ6Oi.jpg">
-    <div class="p-body">
-      <div class="p-title">Tiffany DANDY x Canelo – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Tiffany%20 DANDY x Canelo">Comprar</a>
-    </div>
-    </article>
-
-  <article class="product">
-    <img src="https://imgur.com/qXcJ6Oi.jpg">
-    <div class="p-body">
-      <div class="p-title">Innedit Total Black  – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Innedit%20 Total Black">Comprar</a>
-    </div>
-    </article>
 
     
-  <article class="product">
-    <img src="https://imgur.com/I2AjtsJ.jpg">
-    <div class="p-body">
-      <div class="p-title">World Champion DANDY x Canelo  – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20World Champion%20 DANDY X Canelo ">Comprar</a>
-    </div>
-    </article>
-     <article class="product">
-    <img src="https://imgur.com/xZDJ2tc.jpg">
-    <div class="p-body">
-      <div class="p-title">TomboChino x DANDY  – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20TomboChino%20X DANDY ">Comprar</a>
-    </div>
-       </article>
- <article class="product">
-    <img src="https://imgur.com/odvlgZw.jpg">
-    <div class="p-body">
-      <div class="p-title">LALALA Rude Aweikinks  – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20LALALA%20Rude Aweikinks">Comprar</a>
-    </div>
-       </article>
-<article class="product">
-    <img src="https://imgur.com/xgLiEfR.jpg">
-    <div class="p-body">
-      <div class="p-title">Summer DANDY – Negro</div>
-      <div class="price">$1,600 MXN</div>
-      <a class="btn" href="https://api.whatsapp.com/send?phone=524428655081&text=Hola%20quiero%20comprar%20la%20gorra%20Summer%20DANDY">Comprar</a>
-    </div>
-       </article>
+    
+  
+    
+
+
+
+    
+
+
+
 
 </section>
 
 <footer>
   <p>Síguenos en 
-    <a href="https://www.instagram.com/junior_hats_jr" target="_blank">Instagram</a>
+    <a href="https://www.instagram.com/daniel_hats_jr" target="_blank">Instagram</a>
   </p>
 </footer>
 
